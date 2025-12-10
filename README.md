@@ -16,12 +16,6 @@ Repo publico de pruebas para subir el apk actualizado de maxpay
 
 ---
 
-<p float="left">
-  <img style="margin-right: 5px" src="Screenshoots/1.%20home_screen.png" width="300" />
-  <img src="Screenshoots/1.1.%20Dark%20theme%20home%20screen.png" width="300" />
-</p>
-
-
 ## 🚀 Rápido inicio
 
 1. Clona el repositorio:
