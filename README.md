@@ -6,7 +6,22 @@
 - Subir el APK al release (nombre `maxpay-versión.apk`)
 - Actualizar la versión en pubspec.yaml de Flutter con la nueva versión del apk
 
-Repo publico de pruebas para subir el apk actualizado de maxpay.
+
+## 🧩 Esquema de versionado (Semantic Versioning)
+
+El proyecto sigue el formato `X.Y.Z+B`
+
+Ejemplo: `version: 1.0.2+2`
+
+Significado de cada parte:
+- X (Major)
+Cambios grandes o incompatibles con versiones anteriores.
+- Y (Minor)
+Nuevas funcionalidades que mantienen compatibilidad.
+- Z (Patch)
+Corrección de errores y pequeños ajustes.
+- B (Build)
+Número de compilación interna.
 
 [![Flutter](https://img.shields.io/badge/Flutter-<latest>-02569B?logo=flutter)](https://flutter.dev/) [![Dart](https://img.shields.io/badge/Dart->=2.19-blue?logo=dart)](https://dart.dev/)
 
