@@ -1,5 +1,10 @@
 # maxpay_client_updater ⚡
-`👾 Para nuevos updates solo modificar el version.json y release de este repositorio, no en Flutter.`
+
+## 📌 Pasos para publicar un nuevo update
+
+- Actualizar el archivo version.json del repositorio actual con la nueva versión del apk
+- Subir el APK al release (nombre `maxpay-versión.apk`)
+- Actualizar la versión en pubspec.yaml de Flutter con la nueva versión del apk
 
 Repo publico de pruebas para subir el apk actualizado de maxpay.
 
