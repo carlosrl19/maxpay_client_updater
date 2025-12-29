@@ -1,5 +1,7 @@
 # maxpay_client_updater ⚡
-Repo publico de pruebas para subir el apk actualizado de maxpay
+`👾 Para nuevos updates solo modificar el version.json y release de este repositorio, no en Flutter.`
+
+Repo publico de pruebas para subir el apk actualizado de maxpay.
 
 [![Flutter](https://img.shields.io/badge/Flutter-<latest>-02569B?logo=flutter)](https://flutter.dev/) [![Dart](https://img.shields.io/badge/Dart->=2.19-blue?logo=dart)](https://dart.dev/)
 
