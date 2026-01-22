@@ -6,7 +6,7 @@
 - Subir el APK al release (nombre `maxpay-v1.0.5.apk`)
 - Actualizar la versión en pubspec.yaml de Flutter con la nueva versión del apk (`version: 1.0.5+5`)
 > [!NOTE]
-> Es obligatorio agregar todo el esquema de versionado `X.Y.Z+B` explicado a continuación:
+> Es obligatorio agregar todo el esquema de versionado en el pubspec.yaml `X.Y.Z+B` explicado a continuación:
 
 ## 🧩 Esquema de versionado (Semantic Versioning)
 
